@@ -7,6 +7,14 @@ Counter message; NPC Stat Tracker users additionally sync tracked boss state wit
 
 Fork of [Better Party Defence](https://github.com/Falsary/better-party-defence) - see `ATTRIBUTION.md`.
 
+## Screenshots
+
+| Defence and hitpoints | Magic defence (percent) | Magic defence and hitpoints |
+|---|---|---|
+| ![Defence 77/85 and hitpoints 194/205 above a Greater Nechryael after an Arclight spec](images/defence-and-hitpoints.png) | ![Magic defence shown as 90% of its starting value](images/magic-defence-percent.png) | ![Magic defence and hitpoints above a boss](images/magic-and-hitpoints.png) |
+
+Each stat can be switched on or off under **Stats Shown** in the plugin settings.
+
 ## Stats
 
 Each stat has its own toggle under **Stats Shown** (Magic keeps its existing "Magic Defence" section),
